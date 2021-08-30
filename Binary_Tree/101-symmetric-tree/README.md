@@ -63,7 +63,7 @@ class Solution:
             # if yes move to next line i.e. return. 
             # Now follow the key rules that are mentioned in the image above
 
-            else (left_tree!=None and right_tree!=None) and (left_tree.val==right_tree.val):  
+            else:  
                 return (isMirror(left_tree.left, right_tree.right) and isMirror(left_tree.right, right_tree.left))
         
         # returns the bool i.e. with either true or false 
