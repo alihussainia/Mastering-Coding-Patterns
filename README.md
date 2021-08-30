@@ -1,5 +1,5 @@
 # LeetCode-Python
-The repository contains Leet Code solution notebooks. The Structure of the repository is:
+The repository contains Leet Code solution guides. The Structure of the repository is:
 
 ```
 └───Main Folder (like Binary_Tree)
@@ -8,5 +8,3 @@ The repository contains Leet Code solution notebooks. The Structure of the repos
 ```
 
 Language Used: Python
-
-https://mybinder.org/v2/gh/alihussainia/LeetCode-Python/master?urlpath=lab
