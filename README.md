@@ -1,6 +1,12 @@
-# DSA-Python
-Python and Python based Data Structures and Algorithms Coding Practice Guide
+# LeetCode-Python
+The repository contains Leet Code solution notebooks. The Structure of the repository is:
 
-This Repository will host a bunch of python practice code which will hopefully help anyone and everyone, willing to learn Python Programming Language. 
+```
+└───Main Folder (like Binary_Tree)
+    └───Question_Number Question_Name (like 101-symmetric-tree)
+        └───ReadME Guide Containing Explanation and Solution
+```
 
-https://mybinder.org/v2/gh/alihussainia/DSA-Python/master?urlpath=lab
+Language Used: Python
+
+https://mybinder.org/v2/gh/alihussainia/LeetCode-Python/master?urlpath=lab
