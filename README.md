@@ -9,4 +9,4 @@ The repository contains Leet Code solution guides. The Structure of the reposito
 
 Language Used: Python
 
-jlab: [](https://mybinder.org/v2/gh/alihussainia/LeetCode-Python/master?urlpath=lab)
+jlab: [Link](https://mybinder.org/v2/gh/alihussainia/LeetCode-Python/master?urlpath=lab)
