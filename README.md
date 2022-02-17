@@ -7,6 +7,6 @@ The repository contains Leet Code solution guides. The Structure of the reposito
         └───ReadME Guide Containing Explanation and Solution
 ```
 
-Language Used: Python
+Language Used: Python.
 
 jlab: [Link](https://mybinder.org/v2/gh/alihussainia/LeetCode-Python/master?urlpath=lab)
