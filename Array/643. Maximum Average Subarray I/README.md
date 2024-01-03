@@ -35,7 +35,7 @@ class Solution:
 
         return
 ```
-Time Complexity: O(N)
+Time Complexity: O(N-k)
 
 Space Complexity O(1) 
 
