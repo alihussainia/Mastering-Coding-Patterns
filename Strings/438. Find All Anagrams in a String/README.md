@@ -7,7 +7,7 @@ Question: Given two strings s and p, return an array of all the start indices of
 
 Note: An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
 
-In Simple Words: Return the first indices of those substrings of size k which can form string "P"
+In Simple Words: Return the first indices of those substrings of size k which can form string "P".
 
 Example 1:
 Input: s = "cbaebabacd", p = "abc"
