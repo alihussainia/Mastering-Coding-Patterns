@@ -20,9 +20,6 @@ Output: [0,1,2]
 ## Understanding the Concept
 Let' use the sliding window technique to create a character window of size k. In this approach, we will use hashmaps rather sorted strings along with knife approach where we will remove the preceding character before jumping to the next one.
 
-### Visual Overview
-<img src="https://github.com/alihussainia/LeetCode-Python/blob/master/Strings/1876.%20Substrings%20of%20Size%20Three%20with%20Distinct%20Characters/img/1876.gif" alt="step-by-step-visual-overview">
-
 ### Code Solution - Optimized Approach
 ```Python3
 class Solution:
