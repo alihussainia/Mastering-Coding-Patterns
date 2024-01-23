@@ -1,12 +1,12 @@
-# LeetCode-Python
-The repository contains Leet Code solution guides. The Structure of the repository is:
+# Mastering Coding Patterns
+The repository contains code and detailed explaination of questions solved using different Coding Patterns.
 
+### Repository Structure
 ```
-└───Main Folder (like Binary_Tree)
-    └───Question_Number Question_Name (like 101-symmetric-tree)
-        └───ReadME Guide Containing Explanation and Solution
+└─── Approach Folder
+    └─── Question Folder
+        └─── Question Solution
+        └─── ReadME Guide Containing Explanation
 ```
 
-Language Used: Python.
-
-jlab: [Link](https://mybinder.org/v2/gh/alihussainia/LeetCode-Python/master?urlpath=lab)
+Language: Python
