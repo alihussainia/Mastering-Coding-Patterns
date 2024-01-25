@@ -10,4 +10,4 @@ class Solution:
 
             maxAvg = max(maxAvg , windowAvg)
 
-        return
+        return maxAvg
